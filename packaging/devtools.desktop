@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=DevTools
+GenericName=Developer Utilities
+Comment=JSON / XML / SQL formatter, Base64, JWT, UUID, hashes
+Exec=devtools
+Icon=devtools
+Terminal=false
+Categories=Development;Utility;
+Keywords=json;xml;sql;base64;jwt;uuid;hash;formatter;developer;
+StartupWMClass=DevTools
